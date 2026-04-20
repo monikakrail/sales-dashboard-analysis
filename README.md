@@ -32,4 +32,4 @@ Highlighted underperforming product categories
 
 💡 Outcome
 
-This project demonstrates my ability to clean, analyse, and visualise data to support business decisions.
+This project demonstrates my ability to clean, analyse, and visualise data to support business decisions using Power BI.
